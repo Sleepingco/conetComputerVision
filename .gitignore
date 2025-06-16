@@ -23,3 +23,4 @@ personalproject/roboflowfin
 personalproject/dataset-modification
 personalproject/mlp_tuning
 personalproject/pre-dataset
+*.npy
